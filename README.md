@@ -28,4 +28,6 @@ Taip pat daroma su visomis bakterijų ir žinduolių sekomis.<br>
 Paiimamos dviejų sekų kodonų (arba dikodonų) dažnių sekos, ir surandamas atitinkamų kodonų (arba dikodonų) skirtumas. Randamas gautos reikšmė modulis. Taip atitinkamai perėjus per visas dažnio eilėje reikšmes jos sumuojamos. <br>
 Gauta reikšmė gali būti 0 ir daugiau. Pavyzdys paaiškinantis skaičiavimą:<br>
 TTT pirmoje sekoje sudarė 0.02 visų tripletų, antroje sekoje 0.04, TTC pirmoje sekoje sudarė 0.06 visų tripletų, antroje sekoje 0.03, <br>
-|(0.2) - (0.4)| + |(0.6) - (0.3)| + ...
+|(0.2) - (0.4)| + |(0.6) - (0.3)| + ...<br>
+
+
